@@ -62,5 +62,10 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+![WhatsApp Image 2026-02-12 at 8 49 34 PM](https://github.com/user-attachments/assets/25d9eaa2-3d4e-4f3e-8a54-0a1dc684b855)
+
 ## Output
+![WhatsApp Image 2026-02-12 at 8 51 08 PM](https://github.com/user-attachments/assets/6bfc1f6c-0ef1-4b93-bd25-e1003ff8ba41)
+
 ## Result
+Thus the experiment was simulated and output was verified succesfully
