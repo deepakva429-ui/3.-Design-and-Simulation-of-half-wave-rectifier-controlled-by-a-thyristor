@@ -1,4 +1,4 @@
-# 3.-Design-and-Simulation-of-half-wave-rectifier-controlled-by-a-thyristor
+![WhatsApp Image 2026-02-12 at 8 49 34 PM](https://github.com/user-attachments/assets/a67fcab1-24f4-4ea5-b4df-7d2f466042eb)# 3.-Design-and-Simulation-of-half-wave-rectifier-controlled-by-a-thyristor
 ## AIM
 To design, simulate and analyse a half wave controlled rectifier using one thyristor in MATLAB Simulink.
 ## APPARATUS REQUIRED
@@ -62,5 +62,10 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+![WhatsApp Image 2026-02-12 at 8 49 34 PM](https://github.com/user-attachments/assets/0df98e5d-be3f-46d4-8edd-33657542efd2)
+
 ## Output
+![WhatsApp Image 2026-02-12 at 8 51 08 PM](https://github.com/user-attachments/assets/11356631-1fda-48d9-a1c0-c0742fb2daae)
+
 ## Result
+Thus the experiment was simulated and output was verified
